@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/saveprincess2
+
 def get_princess_loc(grid):
       y_loc = 0
       for i, row in enumerate(grid):

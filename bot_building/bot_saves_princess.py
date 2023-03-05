@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# https://www.hackerrank.com/challenges/saveprincess
+
 def full_move(n,way):
     for i in range(n // 2):
        print(way)

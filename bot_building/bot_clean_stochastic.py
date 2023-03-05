@@ -1,4 +1,4 @@
-#!/bin/python3
+# https://www.hackerrank.com/challenges/botcleanr
 
 def get_dirt_loc(board):
       y_loc = 0

@@ -1,6 +1,4 @@
-#!/usr/bin/python
-
-# Head ends here
+# https://www.hackerrank.com/challenges/botclean
 
 import math
 
@@ -42,7 +40,6 @@ def next_move(posr, posc, board):
     else:
         print("CLEAN")
 
-# Tail starts here
 
 if __name__ == "__main__":
     pos = [int(i) for i in input().strip().split()]
